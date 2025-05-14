@@ -1,1 +1,2 @@
-# C++ Implementation of algorithm/data_structures seen in the Cormen
+# C++ Implementation of things from the famous "Introduction to Algorithms".
+Nothing to see here.
