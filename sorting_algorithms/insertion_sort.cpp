@@ -1,6 +1,6 @@
 /*
  ============================================================================
- ----------------------------Insertion Sort----------------------------
+ ----------------------------Insertion Sort----------------------------------
  ============================================================================
  - IDEA: Costruisce l'array ordinato un elemento alla volta, inserendo ciascun
    elemento nella sua posizione corretta all'interno della parte già ordinata.
@@ -88,6 +88,18 @@ void insertionSort(int* array, int size)
     cout << endl;
   }
 }
+
+/*void insertion_sort_rec(int* array, int i, int size) //The key is PIVOT element
+{
+  if(i == 0)
+  {
+    return 
+  }
+  while (A[] > key);
+  insertion_sort_rec(A, );
+}
+*/
+
 
 void decreaseInsertionSort(int* array, int size)
 {
